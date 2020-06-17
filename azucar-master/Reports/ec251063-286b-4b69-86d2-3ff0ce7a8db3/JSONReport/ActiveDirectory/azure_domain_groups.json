@@ -1,0 +1,776 @@
+[
+    {
+        "objectId":  "0478b3e2-7dd2-4ea9-82af-b241b86adc39",
+        "description":  "I\u0026P - Plateforme de démo CyberArk",
+        "displayName":  "I\u0026P - Plateforme de démo CyberArk",
+        "mail":  "IP-PlateformededmoCyberArk@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "IP-PlateformededmoCyberArk",
+        "mailEnabled":  true,
+        "Members":  6
+    },
+    {
+        "objectId":  "09d2acbd-545c-4823-8f38-36d4674c33b0",
+        "description":  "ULB",
+        "displayName":  "ULB",
+        "mail":  "ULB@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "ULB",
+        "mailEnabled":  true,
+        "Members":  4
+    },
+    {
+        "objectId":  "0afc8b5f-ae58-428a-8f94-61d6cdf3991f",
+        "description":  "ARA CyberArk Team",
+        "displayName":  "ARA CyberArk Team",
+        "mail":  "ARACyberArkTeam@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "ARACyberArkTeam",
+        "mailEnabled":  true,
+        "Members":  8
+    },
+    {
+        "objectId":  "0dbb7675-ce0b-4b39-94c4-095a304124c4",
+        "description":  "groupe de test pour discuter de la direction technique",
+        "displayName":  "Direction Technique",
+        "mail":  "directiontechnique@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "directiontechnique",
+        "mailEnabled":  true,
+        "Members":  2
+    },
+    {
+        "objectId":  "0dca64b4-8662-4682-ba7a-0153241355ca",
+        "description":  "Perso",
+        "displayName":  "Perso",
+        "mail":  "Perso@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "Perso",
+        "mailEnabled":  true,
+        "Members":  3
+    },
+    {
+        "objectId":  "15075020-c029-4435-b29f-a5353b28ec32",
+        "description":  "Interiale",
+        "displayName":  "Interiale",
+        "mail":  "Interiale@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "Interiale",
+        "mailEnabled":  true,
+        "Members":  4
+    },
+    {
+        "objectId":  "18e9f08f-95f7-48eb-92d7-7954bd039583",
+        "description":  null,
+        "displayName":  "Belux_Grp_Management",
+        "mail":  null,
+        "mailNickname":  "Belux_Grp_Management",
+        "mailEnabled":  false,
+        "Members":  4
+    },
+    {
+        "objectId":  "1a4a01b6-5aa2-406e-af13-3f92e6d91b84",
+        "description":  "Comité Labo",
+        "displayName":  "Comité Labo",
+        "mail":  "ComitLabo@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "ComitLabo",
+        "mailEnabled":  true,
+        "Members":  6
+    },
+    {
+        "objectId":  "1cb1edf6-eb99-4b67-8d79-f83a81cdbb23",
+        "description":  null,
+        "displayName":  "Belux_Filer_GRC_RW",
+        "mail":  null,
+        "mailNickname":  "Belux_Filer_GRC_RW",
+        "mailEnabled":  false,
+        "Members":  2
+    },
+    {
+        "objectId":  "1e5d49bc-3011-4bb6-99a0-577ab815b1b3",
+        "description":  "Projet RTE",
+        "displayName":  "Projet RTE",
+        "mail":  "ProjetRTE@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "ProjetRTE",
+        "mailEnabled":  true,
+        "Members":  5
+    },
+    {
+        "objectId":  "20a1d365-9c6c-4a68-90be-6a83909b8d34",
+        "description":  "SUEZ",
+        "displayName":  "SUEZ",
+        "mail":  "SUEZ@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "SUEZ",
+        "mailEnabled":  true,
+        "Members":  3
+    },
+    {
+        "objectId":  "20eef01d-a4c3-4101-bee1-c78195149cb2",
+        "description":  "Cybereason - EDR",
+        "displayName":  "Cybereason - EDR",
+        "mail":  "Cybereason-EDR@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "Cybereason-EDR",
+        "mailEnabled":  true,
+        "Members":  7
+    },
+    {
+        "objectId":  "24a3f4e7-ddfe-498b-a472-7d0c9e8c5c2b",
+        "description":  "Projet Orange Bank",
+        "displayName":  "Projet Orange Bank",
+        "mail":  "ProjetOrangeBank@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "ProjetOrangeBank",
+        "mailEnabled":  true,
+        "Members":  5
+    },
+    {
+        "objectId":  "25627f03-5b8d-4d13-a546-23124aefba95",
+        "description":  null,
+        "displayName":  "Belux_Grp_Projet",
+        "mail":  null,
+        "mailNickname":  "Belux_Grp_Projet",
+        "mailEnabled":  false,
+        "Members":  7
+    },
+    {
+        "objectId":  "25e7183e-bf12-4276-a9c5-ffffc9d0f656",
+        "description":  null,
+        "displayName":  "Belux_Filer_IT-Interne_RW",
+        "mail":  null,
+        "mailNickname":  "Belux_Filer_IT-Interne_RW",
+        "mailEnabled":  false,
+        "Members":  4
+    },
+    {
+        "objectId":  "26fe4a93-f09e-4cab-af65-94d0bcfe5d21",
+        "description":  null,
+        "displayName":  "Belux_Filer_Management_RW",
+        "mail":  null,
+        "mailNickname":  "Belux_Filer_Management_RW",
+        "mailEnabled":  false,
+        "Members":  3
+    },
+    {
+        "objectId":  "27d4db24-2d7b-439e-aefd-b5ddf6d1dce4",
+        "description":  "Equipe pour les échanges techniques au sein de DS",
+        "displayName":  "Tech",
+        "mail":  "Tech@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "Tech",
+        "mailEnabled":  true,
+        "Members":  62
+    },
+    {
+        "objectId":  "28da2f47-09ba-4d2d-a6bf-59c8754dcdcd",
+        "description":  "CERT Belux",
+        "displayName":  "CERT Belux",
+        "mail":  "CERTBelux@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "CERTBelux",
+        "mailEnabled":  true,
+        "Members":  8
+    },
+    {
+        "objectId":  "2b660e34-670b-433c-a608-6b1057492174",
+        "description":  "Abibatou Diallo \u003cAbibatou.Diallo@digital.security\u003e; Ahmed Khallaf \u003cAhmed.Khallaf@digital.security\u003e; Boutaina Largou \u003cBoutaina.Largou@digital.security\u003e; Charles Giorgi \u003cCharles.Giorgi@digital.security\u003e; Insaf Ouali \u003cInsaf.Ouali@digital.security\u003e; Ludovic Chopin \u003cLudovic.Chopin@digital.security\u003e; Nicolas Davèze \u003cNicolas.Daveze@digital.security\u003e; Benjamin Profit \u003cBenjamin.Profit@digital.security\u003e",
+        "displayName":  "Nicolas\u0027s Team",
+        "mail":  "NicolassTeam@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "NicolassTeam",
+        "mailEnabled":  true,
+        "Members":  10
+    },
+    {
+        "objectId":  "2f1ecd37-b339-4c72-871b-fb25ba4fe092",
+        "description":  "DREAM TEAM FA",
+        "displayName":  "DREAM TEAM FA",
+        "mail":  "DREAMTEAMFA@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "DREAMTEAMFA",
+        "mailEnabled":  true,
+        "Members":  8
+    },
+    {
+        "objectId":  "311383da-2ba9-45d9-9daf-761245294e7e",
+        "description":  null,
+        "displayName":  "Belux_Filer_Management_RO",
+        "mail":  null,
+        "mailNickname":  "Belux_Filer_Management_RO",
+        "mailEnabled":  false,
+        "Members":  2
+    },
+    {
+        "objectId":  "3145052f-6603-4a95-abdd-467ffa98ff04",
+        "description":  "Migration AXA - KES",
+        "displayName":  "Migration AXA - KES",
+        "mail":  "MigrationAXA-KES@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "MigrationAXA-KES",
+        "mailEnabled":  true,
+        "Members":  2
+    },
+    {
+        "objectId":  "3650493d-3f5e-4d10-bf00-4f6859932ad2",
+        "description":  "Azure",
+        "displayName":  "Azure",
+        "mail":  "Azure@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "Azure",
+        "mailEnabled":  true,
+        "Members":  6
+    },
+    {
+        "objectId":  "3b23c460-fbe6-445c-a287-867ffa508f74",
+        "description":  " ",
+        "displayName":  "SecOps",
+        "mail":  "SecOps@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "SecOps",
+        "mailEnabled":  true,
+        "Members":  26
+    },
+    {
+        "objectId":  "3f062d1a-6d37-46bf-90c4-bed858157217",
+        "description":  "dieteren",
+        "displayName":  "dieteren",
+        "mail":  "dieteren@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "dieteren",
+        "mailEnabled":  true,
+        "Members":  5
+    },
+    {
+        "objectId":  "410432f4-487c-499d-8987-d0cfae7e209f",
+        "description":  "Nicolas\u0027 Circle",
+        "displayName":  "Nicolas\u0027s Circle",
+        "mail":  "NicolasCircle@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "NicolasCircle",
+        "mailEnabled":  true,
+        "Members":  3
+    },
+    {
+        "objectId":  "41db58ac-12a7-4ff7-b3d6-564b6a566593",
+        "description":  "GEFCO",
+        "displayName":  "GEFCO",
+        "mail":  "GEFCO@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "GEFCO",
+        "mailEnabled":  true,
+        "Members":  3
+    },
+    {
+        "objectId":  "41f3e209-6c8e-45b4-a53b-9e3ebfa6a328",
+        "description":  null,
+        "displayName":  "Belux_Filer_Partenariats_RO",
+        "mail":  null,
+        "mailNickname":  "Belux_Filer_Partenariats_RO",
+        "mailEnabled":  false,
+        "Members":  2
+    },
+    {
+        "objectId":  "43928b8a-1c7d-40cf-bf89-5a7dcf9cc8b4",
+        "description":  "Equipe privée - Channels des comptes ARA (CR des réunions, etc.)",
+        "displayName":  "digital.security Commerce ARA",
+        "mail":  "digital.securityCommerceARA@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "digital.securityCommerceARA",
+        "mailEnabled":  true,
+        "Members":  2
+    },
+    {
+        "objectId":  "4768d0f0-8063-4860-8a06-568f68adf643",
+        "description":  "DS - HDF - Opération",
+        "displayName":  "DS - HDF - Opération",
+        "mail":  "DS-HDF-Opration@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "DS-HDF-Opration",
+        "mailEnabled":  true,
+        "Members":  8
+    },
+    {
+        "objectId":  "49f59b9e-3455-41f2-8c53-9bacdfb578b5",
+        "description":  null,
+        "displayName":  "Belux_Filer_Commerce_RW",
+        "mail":  null,
+        "mailNickname":  "Belux_Filer_Commerce_RW",
+        "mailEnabled":  false,
+        "Members":  7
+    },
+    {
+        "objectId":  "4a392af9-f0a9-49de-9ab2-2c2c5d59d389",
+        "description":  "DS- HDF",
+        "displayName":  "DS- HDF",
+        "mail":  "DS-HDF@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "DS-HDF",
+        "mailEnabled":  true,
+        "Members":  12
+    },
+    {
+        "objectId":  "4d0bce48-2039-4a77-b50d-cca71eb43923",
+        "description":  null,
+        "displayName":  "Belux_Grp_Pentest",
+        "mail":  null,
+        "mailNickname":  "Belux_Grp_Pentest",
+        "mailEnabled":  false,
+        "Members":  7
+    },
+    {
+        "objectId":  "52307e3c-8f25-4d64-b6b5-59368fed85a6",
+        "description":  "Planning 06/2020",
+        "displayName":  "Planning 06/2020",
+        "mail":  "Planning062020@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "Planning062020",
+        "mailEnabled":  true,
+        "Members":  4
+    },
+    {
+        "objectId":  "52e0d6f1-f474-475a-b628-d317e3a2128d",
+        "description":  "Only the best one are here",
+        "displayName":  "Dream team",
+        "mail":  "Dreamteam@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "Dreamteam",
+        "mailEnabled":  true,
+        "Members":  8
+    },
+    {
+        "objectId":  "574276b2-6b28-4815-9984-d96cb2a78447",
+        "description":  "DS NAQ",
+        "displayName":  "DS NAQ",
+        "mail":  "DSNAQ@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "DSNAQ",
+        "mailEnabled":  true,
+        "Members":  2
+    },
+    {
+        "objectId":  "595082e8-df3b-4f77-af35-565ed3720a0e",
+        "description":  null,
+        "displayName":  "Belux_Filer_Public_RW",
+        "mail":  null,
+        "mailNickname":  "Belux_Filer_Public_RW",
+        "mailEnabled":  false,
+        "Members":  8
+    },
+    {
+        "objectId":  "5a0eb97a-aeae-4bf3-9c5f-1f347e085182",
+        "description":  "Ds-stage-archi-cloud",
+        "displayName":  "Ds-stage-SecOps",
+        "mail":  "Ds-stage-archi-cloud@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "Ds-stage-archi-cloud",
+        "mailEnabled":  true,
+        "Members":  4
+    },
+    {
+        "objectId":  "5c6a5f61-eed1-454b-bcc7-198efa939df7",
+        "description":  "La grappe",
+        "displayName":  "La grappe",
+        "mail":  "Lagrappe@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "Lagrappe",
+        "mailEnabled":  true,
+        "Members":  4
+    },
+    {
+        "objectId":  "5d3b464d-b504-4454-a711-4a5a6f5cc73f",
+        "description":  null,
+        "displayName":  "Soutenance TOT CAS",
+        "mail":  "SoutenanceTOTCAS@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "SoutenanceTOTCAS",
+        "mailEnabled":  true,
+        "Members":  6
+    },
+    {
+        "objectId":  "666829ef-36ef-4af1-aa56-a5489850ca5d",
+        "description":  "Suivi HDF - ADV",
+        "displayName":  "ADV - HDF",
+        "mail":  "ADV-HDF@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "ADV-HDF",
+        "mailEnabled":  true,
+        "Members":  3
+    },
+    {
+        "objectId":  "6b226589-da21-4ae5-afa6-0b33b4467693",
+        "description":  null,
+        "displayName":  "Belux_Grp_RH",
+        "mail":  null,
+        "mailNickname":  "Belux_Grp_RH",
+        "mailEnabled":  false,
+        "Members":  2
+    },
+    {
+        "objectId":  "6b2936ac-7b25-4359-90f5-21bbd3817406",
+        "description":  "Clients de l\u0027agence HDF",
+        "displayName":  "DS - HDF - Commerce",
+        "mail":  "DS-HDF-CLIENTS@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "DS-HDF-CLIENTS",
+        "mailEnabled":  true,
+        "Members":  6
+    },
+    {
+        "objectId":  "6df2f5e0-5f37-4b36-99a3-27248863f8cf",
+        "description":  null,
+        "displayName":  "Belux_Filer",
+        "mail":  null,
+        "mailNickname":  "Belux_Filer",
+        "mailEnabled":  false,
+        "Members":  13
+    },
+    {
+        "objectId":  "71fa02fd-f583-44e5-bf70-fa4de900836c",
+        "description":  "Activité de l\u0027équipe",
+        "displayName":  "Equipe Architecture \u0026 Transformation Numérique",
+        "mail":  "EquipeArchitectureTranformationNumrique@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "EquipeArchitectureTranformationNumrique",
+        "mailEnabled":  true,
+        "Members":  5
+    },
+    {
+        "objectId":  "72f48b2c-dfa8-4295-9ffc-1def141734bf",
+        "description":  null,
+        "displayName":  "GroupeRodcLux",
+        "mail":  null,
+        "mailNickname":  "GroupeRodcLux",
+        "mailEnabled":  false,
+        "Members":  12
+    },
+    {
+        "objectId":  "74b50ebf-13ae-4fc9-b630-0fe6b47195e8",
+        "description":  "digital.security",
+        "displayName":  "digital.security",
+        "mail":  "digital.security@digital.security",
+        "mailNickname":  "digital.security",
+        "mailEnabled":  true,
+        "Members":  283
+    },
+    {
+        "objectId":  "74f94517-ef2f-4795-8543-56ab27ef9ff0",
+        "description":  " ",
+        "displayName":  "MarCom",
+        "mail":  "Communication@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "Communication",
+        "mailEnabled":  true,
+        "Members":  3
+    },
+    {
+        "objectId":  "78decd41-fecd-4f8b-8e31-a3717cda5c74",
+        "description":  "Pôle Expertise",
+        "displayName":  "Pôle Expertise",
+        "mail":  "PleExpertise@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "PleExpertise",
+        "mailEnabled":  true,
+        "Members":  23
+    },
+    {
+        "objectId":  "797398dd-a057-4825-b2f0-3c55d3b8f193",
+        "description":  "Channel sur ELK",
+        "displayName":  "Elastic Stack",
+        "mail":  "ElasticStack@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "ElasticStack",
+        "mailEnabled":  true,
+        "Members":  10
+    },
+    {
+        "objectId":  "8520c795-f248-418f-8d71-ec0504d92031",
+        "description":  "Equipe Toulousaine",
+        "displayName":  "DS OCC",
+        "mail":  "DSOCC@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "DSOCC",
+        "mailEnabled":  true,
+        "Members":  12
+    },
+    {
+        "objectId":  "85b260d7-9c0f-49c4-8139-710b83994e4f",
+        "description":  "Test plan",
+        "displayName":  "Test plan",
+        "mail":  "Testplan@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "Testplan",
+        "mailEnabled":  true,
+        "Members":  2
+    },
+    {
+        "objectId":  "8adc3ec3-bf6c-4cfa-9051-f82e85efc266",
+        "description":  "o365",
+        "displayName":  "o365",
+        "mail":  "o365@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "o365",
+        "mailEnabled":  true,
+        "Members":  12
+    },
+    {
+        "objectId":  "8f5d0683-dacd-4766-a776-a1c5b7b97007",
+        "description":  "CGG",
+        "displayName":  "CGG",
+        "mail":  "CGG@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "CGG",
+        "mailEnabled":  true,
+        "Members":  7
+    },
+    {
+        "objectId":  "94e57ebd-a51d-49ca-a4f4-fc23dc8ac4b7",
+        "description":  "Managers I\u0026P",
+        "displayName":  "managers I\u0026P",
+        "mail":  "managersIP@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "managersIP",
+        "mailEnabled":  true,
+        "Members":  7
+    },
+    {
+        "objectId":  "9589acc9-8bf4-473b-9d46-69647f6428dd",
+        "description":  "Offre Microsoft chez digital.security",
+        "displayName":  "Microsoft",
+        "mail":  "Microsoft@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "Microsoft",
+        "mailEnabled":  true,
+        "Members":  12
+    },
+    {
+        "objectId":  "9cf6b613-1c6d-4d16-8b57-571817d3dda4",
+        "description":  "digital.security ARA",
+        "displayName":  "digital.security ARA",
+        "mail":  "digital.securityARA@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "digital.securityARA",
+        "mailEnabled":  true,
+        "Members":  20
+    },
+    {
+        "objectId":  "9d9bcfd7-4275-4d3d-996a-dac6db2a59f3",
+        "description":  "CERT-DS Interne",
+        "displayName":  "CERT-DS Interne",
+        "mail":  "CERT-DSInterne@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "CERT-DSInterne",
+        "mailEnabled":  true,
+        "Members":  33
+    },
+    {
+        "objectId":  "9ef04704-ebda-4a49-a874-40028895c533",
+        "description":  "SNCF - DS",
+        "displayName":  "SNCF - DS",
+        "mail":  "SNCF-DS@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "SNCF-DS",
+        "mailEnabled":  true,
+        "Members":  11
+    },
+    {
+        "objectId":  "a2315ee4-a0fe-4652-bfd4-07b21bd43018",
+        "description":  "OCC-MBDA",
+        "displayName":  "OCC-MBDA",
+        "mail":  "OCC-MBDA@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "OCC-MBDA",
+        "mailEnabled":  true,
+        "Members":  4
+    },
+    {
+        "objectId":  "a3eb2512-5379-4f94-8b24-cbfe2db0d02d",
+        "description":  null,
+        "displayName":  "Belux_Filer_Projet_RW",
+        "mail":  null,
+        "mailNickname":  "Belux_Filer_Projet_RW",
+        "mailEnabled":  false,
+        "Members":  6
+    },
+    {
+        "objectId":  "a6119ef5-be0a-449d-83f2-d36fbc9ace0c",
+        "description":  null,
+        "displayName":  "Belux_Filer_IT-Interne_RO",
+        "mail":  null,
+        "mailNickname":  "Belux_Filer_IT-Interne_RO",
+        "mailEnabled":  false,
+        "Members":  1
+    },
+    {
+        "objectId":  "a79610b6-8727-458a-9153-274b20ce179d",
+        "description":  "ENGIE - DS",
+        "displayName":  "ENGIE - DS",
+        "mail":  "ENGIE-DS@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "ENGIE-DS",
+        "mailEnabled":  true,
+        "Members":  9
+    },
+    {
+        "objectId":  "a9024786-3d98-4080-aa05-29be41f153e7",
+        "description":  "les consultants de l\u0027agence Digital Security SUD-Monaco",
+        "displayName":  "ds PACA",
+        "mail":  "dsPACA@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "dsPACA",
+        "mailEnabled":  true,
+        "Members":  6
+    },
+    {
+        "objectId":  "abd7d183-0b2d-48cd-9afc-661087064f1b",
+        "description":  null,
+        "displayName":  "Belux_Filer_Projet_RO",
+        "mail":  null,
+        "mailNickname":  "Belux_Filer_Projet_RO",
+        "mailEnabled":  false,
+        "Members":  4
+    },
+    {
+        "objectId":  "acea6d80-65f3-4dac-9bec-457c343c4fcf",
+        "description":  null,
+        "displayName":  "Belux_Filer_Partenariats_RW",
+        "mail":  null,
+        "mailNickname":  "Belux_Filer_Partenariats_RW",
+        "mailEnabled":  false,
+        "Members":  7
+    },
+    {
+        "objectId":  "ae47d7a3-41b0-4d58-a393-763891239fd3",
+        "description":  "TEST",
+        "displayName":  "TEST",
+        "mail":  "TEST@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "TEST",
+        "mailEnabled":  true,
+        "Members":  2
+    },
+    {
+        "objectId":  "ae7bb347-b1c8-4151-be89-8cf5f86e28d8",
+        "description":  null,
+        "displayName":  "PrestaExterne",
+        "mail":  null,
+        "mailNickname":  "PrestaExterne",
+        "mailEnabled":  false,
+        "Members":  3
+    },
+    {
+        "objectId":  "b0b9a112-c5e0-46f3-b83a-37b8e20e77d7",
+        "description":  "Threat Check",
+        "displayName":  "Threat Check",
+        "mail":  "ThreatCheckLOral@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "ThreatCheckLOral",
+        "mailEnabled":  true,
+        "Members":  5
+    },
+    {
+        "objectId":  "b31112ad-4146-4d43-8c57-59e2c4924844",
+        "description":  "This teams will support the confcall about the follow-up of the greybox phase.",
+        "displayName":  "Pentest follow-up",
+        "mail":  "CronosPentest@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "CronosPentest",
+        "mailEnabled":  true,
+        "Members":  6
+    },
+    {
+        "objectId":  "b75525b4-1fbd-4ea6-89c9-49c94b11f042",
+        "description":  "DS -HDF - Direction",
+        "displayName":  "DS -HDF - Direction",
+        "mail":  "DS-HDF-Direction@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "DS-HDF-Direction",
+        "mailEnabled":  true,
+        "Members":  3
+    },
+    {
+        "objectId":  "ba1082e7-a28d-4a9f-a3a2-c9f216018078",
+        "description":  "GEFCO - Protection 0-Day",
+        "displayName":  "GEFCO - Protection 0-Day",
+        "mail":  "GEFCO-Protection0-Day@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "GEFCO-Protection0-Day",
+        "mailEnabled":  true,
+        "Members":  6
+    },
+    {
+        "objectId":  "bd1e52f3-8316-4c42-9621-bf7d512362f6",
+        "description":  null,
+        "displayName":  "Belux_Filer_Commerce_RO",
+        "mail":  null,
+        "mailNickname":  "Belux_Filer_Commerce_RO",
+        "mailEnabled":  false,
+        "Members":  2
+    },
+    {
+        "objectId":  "be68e7b2-c11c-418e-9280-26eb4232abcb",
+        "description":  "TEAM FA Privacy \u0026 SSI",
+        "displayName":  "TEAM FA Privacy \u0026 SSI",
+        "mail":  "TEAMFAPrivacySSI@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "TEAMFAPrivacySSI",
+        "mailEnabled":  true,
+        "Members":  3
+    },
+    {
+        "objectId":  "c370bf57-4117-486a-8667-9123c8d64d74",
+        "description":  "Département Commerce Digital Security",
+        "displayName":  "Teamsales (MS Teams)",
+        "mail":  "TeamsalesMSTeams@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "TeamsalesMSTeams",
+        "mailEnabled":  true,
+        "Members":  7
+    },
+    {
+        "objectId":  "c90e464a-d415-4189-a865-856f2164dbd3",
+        "description":  null,
+        "displayName":  "Belux_Filer_GRC_RO",
+        "mail":  null,
+        "mailNickname":  "Belux_Filer_GRC_RO",
+        "mailEnabled":  false,
+        "Members":  1
+    },
+    {
+        "objectId":  "d3bc7e5f-1122-4293-b5af-8e0939ad6988",
+        "description":  null,
+        "displayName":  "PrestaInterne",
+        "mail":  null,
+        "mailNickname":  "PrestaInterne",
+        "mailEnabled":  false,
+        "Members":  1
+    },
+    {
+        "objectId":  "d8afb481-da73-41da-adfe-968202b22235",
+        "description":  null,
+        "displayName":  "Belux_Grp_GRC",
+        "mail":  null,
+        "mailNickname":  "Belux_Grp_GRC",
+        "mailEnabled":  false,
+        "Members":  13
+    },
+    {
+        "objectId":  "db3a7657-a103-4c74-8f1e-6df005b2e572",
+        "description":  null,
+        "displayName":  "Belux_Grp_Acces_France",
+        "mail":  null,
+        "mailNickname":  "Belux_Grp_Acces_France",
+        "mailEnabled":  false,
+        "Members":  3
+    },
+    {
+        "objectId":  "dcce6423-5c21-4208-b55e-e1d04f0bd816",
+        "description":  "ADV",
+        "displayName":  "ADV",
+        "mail":  "ADV@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "ADV",
+        "mailEnabled":  true,
+        "Members":  4
+    },
+    {
+        "objectId":  "ddcf85ea-ffda-4809-a82e-e38216a415b6",
+        "description":  "FINANCES",
+        "displayName":  "FINANCES",
+        "mail":  "FINANCES@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "FINANCES",
+        "mailEnabled":  true,
+        "Members":  7
+    },
+    {
+        "objectId":  "e7cce4cb-4643-4877-a845-db3d813889eb",
+        "description":  "Allan",
+        "displayName":  "LoupIOTes trollileurs",
+        "mail":  "LoupIOTestrollileurs@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "LoupIOTestrollileurs",
+        "mailEnabled":  true,
+        "Members":  5
+    },
+    {
+        "objectId":  "ed3b7178-9fc1-46fc-8441-689142ee07a3",
+        "description":  null,
+        "displayName":  "Belux_Grp_Commerciaux",
+        "mail":  null,
+        "mailNickname":  "Belux_Grp_Commerciaux",
+        "mailEnabled":  false,
+        "Members":  2
+    },
+    {
+        "objectId":  "edc7dbbf-0287-4d27-9813-7fc31d13b3f9",
+        "description":  "screenshare-test",
+        "displayName":  "screenshare-test",
+        "mail":  "screenshare-test@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "screenshare-test",
+        "mailEnabled":  true,
+        "Members":  4
+    },
+    {
+        "objectId":  "ee035f94-7556-49c8-8c64-1ccdb27a3b5a",
+        "description":  "CERT-Copil",
+        "displayName":  "CERT-Copil",
+        "mail":  "CERT-Copil@digitalsecurity0.onmicrosoft.com",
+        "mailNickname":  "CERT-Copil",
+        "mailEnabled":  true,
+        "Members":  11
+    },
+    {
+        "objectId":  "f5052fdd-bece-45c0-a6b5-88157ea37013",
+        "description":  null,
+        "displayName":  "Belux_Filer_GlobalDeny",
+        "mail":  null,
+        "mailNickname":  "Belux_Filer_GlobalDeny",
+        "mailEnabled":  false,
+        "Members":  1
+    }
+]

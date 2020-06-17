@@ -1,0 +1,36 @@
+{
+    "Name":  "myCustomType",
+    "Expression":  {
+                       "Attributes":  [
+
+                                      ],
+                       "File":  null,
+                       "IsFilter":  false,
+                       "IsConfiguration":  false,
+                       "Module":  null,
+                       "StartPosition":  {
+                                             "Content":  "{\"NCCGroup Labs\"}",
+                                             "Type":  19,
+                                             "Start":  2487,
+                                             "Length":  17,
+                                             "StartLine":  64,
+                                             "StartColumn":  67,
+                                             "EndLine":  64,
+                                             "EndColumn":  84
+                                         },
+                       "DebuggerHidden":  false,
+                       "Id":  "8ce3e6b3-d8a3-4686-abc3-4a58ad075c60",
+                       "Ast":  {
+                                   "Attributes":  "",
+                                   "UsingStatements":  "",
+                                   "ParamBlock":  null,
+                                   "BeginBlock":  null,
+                                   "ProcessBlock":  null,
+                                   "EndBlock":  "\"NCCGroup Labs\"",
+                                   "DynamicParamBlock":  null,
+                                   "ScriptRequirements":  null,
+                                   "Extent":  "{\"NCCGroup Labs\"}",
+                                   "Parent":  "{\"NCCGroup Labs\"}"
+                               }
+                   }
+}

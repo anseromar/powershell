@@ -1,0 +1,106 @@
+[
+    {
+        "objectId":  "0f694fc1-6eac-47b4-8c63-bfab4bc9f8f1",
+        "description":  "Can manage all aspects of users and groups, including resetting passwords for limited admins.",
+        "displayName":  "User Account Administrator",
+        "isSystem":  true,
+        "roleDisabled":  false,
+        "Members":  0
+    },
+    {
+        "objectId":  "24d47b6c-e7f9-4081-ae2c-b839294d9aa0",
+        "description":  "Can manage the Microsoft Teams service.",
+        "displayName":  "Teams Service Administrator",
+        "isSystem":  true,
+        "roleDisabled":  false,
+        "Members":  0
+    },
+    {
+        "objectId":  "3fc12bbe-ca06-4fdf-93ae-e2be35e5e8fe",
+        "description":  "Can manage all aspects of the SharePoint service.",
+        "displayName":  "SharePoint Service Administrator",
+        "isSystem":  true,
+        "roleDisabled":  false,
+        "Members":  0
+    },
+    {
+        "objectId":  "479ed2b4-1509-4015-a9d9-a23ebc7cd441",
+        "description":  "Device Administrators",
+        "displayName":  "Device Administrators",
+        "isSystem":  true,
+        "roleDisabled":  false,
+        "Members":  0
+    },
+    {
+        "objectId":  "4ef02f2d-cb76-48cd-b7c9-1eeb7435d30f",
+        "description":  "Full access to manage devices in Azure AD.",
+        "displayName":  "Cloud Device Administrator",
+        "isSystem":  true,
+        "roleDisabled":  false,
+        "Members":  0
+    },
+    {
+        "objectId":  "55964c43-21fb-4edb-9c76-c87ccd33278b",
+        "description":  "Can reset passwords for non-administrators and Helpdesk Administrators.",
+        "displayName":  "Helpdesk Administrator",
+        "isSystem":  true,
+        "roleDisabled":  false,
+        "Members":  0
+    },
+    {
+        "objectId":  "63bd2519-3553-41da-8671-96a374a5dd37",
+        "description":  "Can access and manage Desktop management tools and services.",
+        "displayName":  "Desktop Analytics Administrator",
+        "isSystem":  true,
+        "roleDisabled":  false,
+        "Members":  0
+    },
+    {
+        "objectId":  "80f5829f-81cf-436d-8097-b1f81171497e",
+        "description":  "Can read service health information and manage support tickets.",
+        "displayName":  "Service Support Administrator",
+        "isSystem":  true,
+        "roleDisabled":  false,
+        "Members":  0
+    },
+    {
+        "objectId":  "8b901fd1-1200-43e4-ae7a-7148795dc1e4",
+        "description":  "Can read everything that a global admin can read but not update anything.",
+        "displayName":  "Global Reader",
+        "isSystem":  true,
+        "roleDisabled":  false,
+        "Members":  0
+    },
+    {
+        "objectId":  "b10faf59-53a0-44b3-b431-d02f1da8347f",
+        "description":  "Can manage all aspects of the Exchange product.",
+        "displayName":  "Exchange Service Administrator",
+        "isSystem":  true,
+        "roleDisabled":  false,
+        "Members":  0
+    },
+    {
+        "objectId":  "b88d8e1a-d0f8-47a2-b06a-ac2d76f58c15",
+        "description":  "Can manage all aspects of Azure AD and Microsoft services that use Azure AD identities.",
+        "displayName":  "Company Administrator",
+        "isSystem":  true,
+        "roleDisabled":  false,
+        "Members":  5
+    },
+    {
+        "objectId":  "ca799bff-3ae5-4989-bb1c-55117a89dd42",
+        "description":  "Can manage all aspects of the Intune product.",
+        "displayName":  "Intune Service Administrator",
+        "isSystem":  true,
+        "roleDisabled":  false,
+        "Members":  0
+    },
+    {
+        "objectId":  "d37bb801-e42d-4cc5-b0b4-f76ff7cbb525",
+        "description":  "Only used by Azure AD Connect service.",
+        "displayName":  "Directory Synchronization Accounts",
+        "isSystem":  true,
+        "roleDisabled":  false,
+        "Members":  2
+    }
+]

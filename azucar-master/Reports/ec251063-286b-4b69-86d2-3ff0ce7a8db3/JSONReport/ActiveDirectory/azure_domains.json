@@ -1,0 +1,50 @@
+[
+    {
+        "authenticationType":  "Federated",
+        "availabilityStatus":  null,
+        "isAdminManaged":  true,
+        "isDefault":  false,
+        "isDefaultForCloudRedirections":  false,
+        "isInitial":  false,
+        "isRoot":  true,
+        "isVerified":  true,
+        "name":  "digital.security",
+        "supportedServices":  "",
+        "forceDeleteState":  null,
+        "state":  null,
+        "passwordValidityPeriodInDays":  null,
+        "passwordNotificationWindowInDays":  null
+    },
+    {
+        "authenticationType":  "Managed",
+        "availabilityStatus":  null,
+        "isAdminManaged":  true,
+        "isDefault":  true,
+        "isDefaultForCloudRedirections":  false,
+        "isInitial":  true,
+        "isRoot":  true,
+        "isVerified":  true,
+        "name":  "digitalsecurity0.onmicrosoft.com",
+        "supportedServices":  "Email,OfficeCommunicationsOnline",
+        "forceDeleteState":  null,
+        "state":  null,
+        "passwordValidityPeriodInDays":  null,
+        "passwordNotificationWindowInDays":  null
+    },
+    {
+        "authenticationType":  "Managed",
+        "availabilityStatus":  null,
+        "isAdminManaged":  true,
+        "isDefault":  false,
+        "isDefaultForCloudRedirections":  false,
+        "isInitial":  false,
+        "isRoot":  true,
+        "isVerified":  true,
+        "name":  "digitalsecurity0.mail.onmicrosoft.com",
+        "supportedServices":  "",
+        "forceDeleteState":  null,
+        "state":  null,
+        "passwordValidityPeriodInDays":  null,
+        "passwordNotificationWindowInDays":  null
+    }
+]
