@@ -27,6 +27,7 @@
 
         )
     Begin{
+       
         #Import Azure API
         $LocalPath = $AzureObject.LocalPath
         $API = $AzureObject.AzureAPI
@@ -51,8 +52,27 @@
         #Retrieve Azure Active Directory Auth
         $AADAuth = $AzureObject.AzureConnections.ActiveDirectory
         
+        $PrivilegedUsersWithoutMFA = @()
 
+        $AllUsers = Get-AzSecAADObject -Instance $Instance -Authentication $AADAuth `
+                                       -Objectype "users" -APIVersion $AADConfig.APIVersion -Verbosity $Verbosity -WriteLog $WriteLog
+        $AllDirectoryRoles = Get-AzSecAADObject -Instance $Instance -Authentication $AADAuth `
+                                       -Objectype "directoryRoles" -APIVersion $AADConfig.APIVersion -Verbosity $Verbosity -WriteLog $WriteLog
         
+        Write-Host $AllUsers[0]
+        Write-Host $AllDirectoryRoles[0]
+
+        $PrivilegedUsers | ForEach-Object{
+        
+        $MfaAuthMethodCount = $_.StrongAuthenticationMethods.Count
+                    
+        #Count number of methods
+        if ($MfaAuthMethodCount -eq 0) {      
+            $PrivilegedUsersWithoutMFA += $PrivilegedUsers
+        }
+
+        }
+
     }
     End{
     }
